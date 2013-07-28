@@ -11,7 +11,7 @@ This is particularly useful when filtering user input:
     params = {name: "Monty Pontihew", admin: true};
     allow  = ['name', 'age'];
     
-    user.update(sliceKeys(params, allow));
+    user.update(sliceKeys(params, allow)); // Only name will be passed in
 
 Installation
 ------------
@@ -29,4 +29,4 @@ Enjoy.
 
 ----
 
-Adam Sanderson
+[Adam Sanderson](http://monkeyandcrow.com)
