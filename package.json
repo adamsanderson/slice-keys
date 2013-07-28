@@ -1,0 +1,27 @@
+{
+  "name": "slice-keys",
+  "version": "0.0.0",
+  "description": "Slice keys and values from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamsanderson/slice-keys"
+  },
+  "keywords": [
+    "slice",
+    "keys",
+    "hash",
+    "object"
+  ],
+  "author": "Adam Sanderson",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/adamsanderson/slice-keys/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  }
+}
